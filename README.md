@@ -6,7 +6,7 @@ This is a ui clone of republic.com
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/pepcorns-assignment.git](https://github.com/ankkitsharma/Pepcorns-Assignment.git)
+git clone https://github.com/ankkitsharma/Pepcorns-Assignment.git
 ```
 2. cd pepcorns-assignment
    npm install
