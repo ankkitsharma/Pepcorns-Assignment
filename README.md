@@ -15,5 +15,9 @@ git clone [https://github.com/your-username/pepcorns-assignment.git](https://git
 
 ## Screenshot
 
-![image](https://github.com/ankkitsharma/Pepcorns-Assignment/assets/78787267/0530642f-5041-428e-b348-e05bed155767)
+![image](https://github.com/ankkitsharma/Pepcorns-Assignment/assets/78787267/88adc515-d4a7-4eec-8e8a-52719d0b5444)
+
+![image](https://github.com/ankkitsharma/Pepcorns-Assignment/assets/78787267/8dca9ad7-5aed-491f-9bea-7e9d961285a3)
+
+
 
