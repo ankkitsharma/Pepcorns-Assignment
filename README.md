@@ -2,6 +2,9 @@
 
 This is a ui clone of republic.com
 
+## Deployement
+https://republic-clone.vercel.app/
+
 ## Getting Started
 
 1. Clone the repository
@@ -12,6 +15,14 @@ git clone https://github.com/ankkitsharma/Pepcorns-Assignment.git
    npm install
 3. npm run dev
 4. Open http://localhost:3000 with your browser to see the result.
+
+## Features
+
+1. Responsive mobile first design.
+2. Use of Custom CSS frameworks (Tailwind and Daisy UI).
+3. Extensive use of reusable functional components in React.
+4. Dynamic navbar using react-scroll.
+5. Deployed on Vercel.
 
 ## Screenshot
 
